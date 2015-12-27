@@ -1,0 +1,3 @@
+Task is to create with sass page similar to a given example. Page should demonstrage different gradients.
+I will attach *.scss file , *.css file and *.html file. 
+This will be also good exercise for using github.
