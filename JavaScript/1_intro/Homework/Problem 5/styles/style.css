@@ -1,0 +1,35 @@
+#wrapper {
+  background-color: #ccc;
+  margin: 0px auto;
+  widht: 600px;
+  height: 600px; }
+  #wrapper h1 {
+    text-align: center;
+    color: blueviolet;
+    height: 50px; }
+  #wrapper table {
+    margin-left: 300px;
+    padding: 0px; }
+    #wrapper table tr {
+      cellspacing: 0px;
+      cellpadding: 0px; }
+      #wrapper table tr td {
+        cellspacing: 0px;
+        cellpadding: 0px;
+        margin: 0px;
+        width: 100px;
+        height: 100px;
+        border: 2px solid #000;
+        text-align: center;
+        font-size: 50px;
+        font-weight: 700; }
+  #wrapper .up {
+    border-top: 0px; }
+  #wrapper .left {
+    border-left: 0px; }
+  #wrapper .down {
+    border-bottom: 0px; }
+  #wrapper .right {
+    border-right: 0px; }
+
+/*# sourceMappingURL=style.css.map */
